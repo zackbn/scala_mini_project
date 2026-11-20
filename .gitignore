@@ -1,0 +1,12 @@
+# Scala CLI / Metals / IDE build files
+.scala-build/
+.bsp/
+.metals/
+.vscode/
+.idea/
+target/
+project/target/
+
+# OS files
+.DS_Store
+Thumbs.db
